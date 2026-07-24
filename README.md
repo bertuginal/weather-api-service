@@ -4,7 +4,7 @@
 
 This project is a weather API project that communicates with the OpenWeatherMap API based on user input. The purpose of this service is to display daily, weekly and monthly weather forecasts based on country and city information.
 
-![logo](https://github.com/bertuginal/Weather-API/assets/73167951/114fcc84-e7f9-42b6-8721-043993cc8fe0)
+![logo](https://github.com/bertuginal/weather-api-service/assets/73167951/114fcc84-e7f9-42b6-8721-043993cc8fe0)
 
 
 ## 🔎 Overview
@@ -47,7 +47,7 @@ You can download the project, install and run it by following the instructions b
    ```
 2. Clone the my repo
    ```sh
-   git clone https://github.com/bertuginal/Weather-API.git
+   git clone https://github.com/bertuginal/weather-api-service.git
    ```
 3. Install NPM packages
    ```sh
@@ -69,7 +69,7 @@ You can download the project, install and run it by following the instructions b
 - [x] Robust error handling ensures graceful degradation in case of issues with external API communication or invalid user inputs.
 - [x] Comprehensive validation of input parameters to ensure data integrity and reliability.
 
-✔️ See the [open issues](https://github.com/bertuginal/Weather-API/issues) for a full list of proposed features (and known issues)!
+✔️ See the [open issues](https://github.com/bertuginal/weather-api-service/issues) for a full list of proposed features (and known issues)!
    
 
 &nbsp; 
@@ -84,11 +84,11 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 ❶ Fork the Project
 
-❷ Create your Feature Branch (`git checkout -b feature/WeatherApi`)
+❷ Create your Feature Branch (`git checkout -b feature/weather-api-service`)
 
-❸  Commit your Changes (`git commit -m 'Add some WeatherApi'`)
+❸  Commit your Changes (`git commit -m 'Add some weather-api-service'`)
 
-❹  Push to the Branch (`git push origin feature/WeatherApi`)
+❹  Push to the Branch (`git push origin feature/weather-api-service`)
 
 ❺ Open a Pull Request
    
@@ -98,11 +98,10 @@ If you have a suggestion that would make this better, please fork the repo and c
 <!-- CONTACT -->
 ## ☎️ Contact
 
-📧 E-mail: [bertuginal@yahoo.com](mailto:bertuginal@yahoo.com)
+📧 **E-mail:** [bertuginal@yahoo.com](mailto:bertuginal@yahoo.com)
 
-📱 Mobile Phone: [(+90) 507 038 33 23](mailto:+905070383323)
+ℹ️ **LinkedIn**: [in/bertuginal]([https://linkedin.com](https://www.linkedin.com/in/bertuginal/)
 
-📋 Project Link: [https://github.com/bertuginal/Weather-API](https://github.com/bertuginal/Weather-API)
 
 
 
